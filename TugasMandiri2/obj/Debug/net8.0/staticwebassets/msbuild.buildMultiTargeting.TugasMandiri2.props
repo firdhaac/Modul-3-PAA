@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TugasMandiri2.props" />
+</Project>
